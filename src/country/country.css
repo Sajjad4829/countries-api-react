@@ -1,0 +1,13 @@
+.card {
+    border: 1px solid gray;
+}
+
+.img {
+    height: 100px;
+    width: 180px;
+}
+
+.img1 {
+    height: 80px;
+    width: 100px;
+}
